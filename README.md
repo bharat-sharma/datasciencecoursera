@@ -1,4 +1,0 @@
-datasciencecoursera
-===================
-
-CourseEra-DataScience Course
